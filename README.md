@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="/assets/Man.gif" />
+  <img src="./assets/welcome.gif" />
 </p>
 
 
@@ -51,21 +51,6 @@ I learn by building real projects, breaking things, and improving continuously.
 
 ---
 
-## Featured Visual (Optional)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thnoxs/Thnoxs/main/assets/coding.gif" width="420" />
-</p>
-
-<!-- 
-TODO:
-1. Create repo folder: assets/
-2. Upload coding.gif OR banner.png
-3. Change filename here
--->
-
----
-
 ## Connect With Me
 
 <p align="center">
@@ -73,16 +58,9 @@ TODO:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/Thnoxs">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/twitter-000000?style=flat&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:Thnoxs@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=100&section=footer"/>
 </p>
