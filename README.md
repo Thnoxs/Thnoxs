@@ -21,18 +21,11 @@ I learn by building real projects, breaking things, and improving continuously.
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nodejs,vue,react,next,git,docker,python&perline=6" />
 </p>
 
+<p align="center">
+  <img src="./assets/line.gif" />
+</p>
+
+
 <!-- TODO: add/remove icons later (no need to rush) -->
 
 ---
-
-## Tools & Platforms
-
-<p align="center">
-  <a href="https://linkedin.com/in/Thnoxs">
-    <img src="./assets/email.gif"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,netlify,vercel,linux&perline=5" />
-</p>
