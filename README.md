@@ -5,7 +5,7 @@
 
 <!-- ===================== TYPING INTRO ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+in+Progress;JavaScript+%7C+Web+%7C+Backend;Learning+by+Building+Real+Projects" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW83cnhzZG1maHo4azlvNjlyOXp5YWFtZXNnbHNkcTR4b243bGF6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" />
 </p>
 
 ---
