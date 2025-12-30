@@ -1,12 +1,8 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Ankit%20Jaiswal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://giphy.com/stickers/CleverCodeLab-computer-working-pc-zbMRZx113HKBkeCwrm" />
 </p>
 
-<!-- ===================== TYPING INTRO ===================== -->
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW83cnhzZG1maHo4azlvNjlyOXp5YWFtZXNnbHNkcTR4b243bGF6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" />
-</p>
 
 ---
 
