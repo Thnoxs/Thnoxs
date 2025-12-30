@@ -39,7 +39,7 @@ I learn by building real projects, breaking things, and improving continuously.
 
 <p align="center">
   <a href="https://linkedin.com/in/Thnoxs">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="./assets/email.gif"/>
   </a>
   <a href="https://x.com/Thnoxs">
     <img src="https://img.shields.io/badge/twitter-000000?style=flat&logo=x&logoColor=white"/>
