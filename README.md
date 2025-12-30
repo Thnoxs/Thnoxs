@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="./assets/man.gif" />
+  <img src="/assets/Man.gif" />
 </p>
 
 
