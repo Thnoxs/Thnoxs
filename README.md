@@ -34,5 +34,5 @@ I learn by building real projects, breaking things, and improving continuously.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=youtube,behance,instagram,x,linux&perline=5" />
+  <img src="https://skillicons.dev/icons?i=vscode,youtube,behance,instagram,x,linux&perline=6" />
 </p>
