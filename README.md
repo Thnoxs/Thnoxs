@@ -20,8 +20,3 @@ I learn by building real projects, breaking things, and improving continuously.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nodejs,vue,react,next,git,docker,python&perline=6" />
 </p>
-
-
-<!-- TODO: add/remove icons later (no need to rush) -->
-
----
