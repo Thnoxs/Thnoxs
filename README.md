@@ -25,7 +25,7 @@ I learn by building real projects, breaking things, and improving continuously.
 
 ---
 
-## Tools & Platforms
+## Social media
 
 <p align="center">
   <a href="mailto:thnoxs@email.com">
@@ -34,5 +34,5 @@ I learn by building real projects, breaking things, and improving continuously.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,netlify,vercel,linux&perline=5" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,instagram,twitter,linux&perline=5" />
 </p>
