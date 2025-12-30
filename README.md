@@ -35,7 +35,6 @@ I learn by building real projects, breaking things, and improving continuously.
 
 ---
 
-## Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/Thnoxs">
     <img src="./assets/email.gif"/>
