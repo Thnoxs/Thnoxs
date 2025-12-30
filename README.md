@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://giphy.com/stickers/CleverCodeLab-computer-working-pc-zbMRZx113HKBkeCwrm" />
+  <img src="./assets/code.gif" />
 </p>
 
 
