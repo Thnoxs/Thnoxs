@@ -28,15 +28,11 @@ I learn by building real projects, breaking things, and improving continuously.
 ## Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,netlify,vercel,linux&perline=5" />
-</p>
-
-<!-- TODO: remove stats anytime if you want minimal look -->
-
----
-
-<p align="center">
   <a href="https://linkedin.com/in/Thnoxs">
     <img src="./assets/email.gif"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,netlify,vercel,linux&perline=5" />
 </p>
