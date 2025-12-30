@@ -1,11 +1,3 @@
-<!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="./assets/welcome.gif" />
-</p>
-
-
----
-
 ## About Me
 
 I’m **Ankit**, a self-driven developer focused on building strong fundamentals in modern web development.  
@@ -40,12 +32,9 @@ I learn by building real projects, breaking things, and improving continuously.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thnoxs&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="./assets/git.gif" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thnoxs&theme=tokyonight&hide_border=true" />
-</p>
 
 <!-- TODO: remove stats anytime if you want minimal look -->
 
