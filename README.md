@@ -23,16 +23,4 @@ I learn by building real projects, breaking things, and improving continuously.
 
 <!-- TODO: add/remove icons later (no need to rush) -->
 
----
 
-## Social media
-
-<p align="center">
-  <a href="mailto:thnoxs@email.com">
-    <img src="./assets/email.gif"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=instagram,twitter,linux&perline=6" />
-</p>
