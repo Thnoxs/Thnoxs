@@ -1,50 +1,48 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Full%20Stack%20Developer&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Turning%20Coffee%20Into%20Code&descAlignY=55&descAlign=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=ffffff&desc=Crafting%20Robust%20Web%20Experiences&descFontSize=20&descAlignY=75" alt="Header" width="100%"/>
 </div>
 
+<br/>
+
+<h2 align="center">Hi there, I'm Ankit! 👋</h2>
+
+<p align="center">
+  I am a passionate <strong>Full Stack Developer</strong> focused on building clean, scalable, and user-friendly web applications. I specialize in the MERN stack and modern UI libraries.
+</p>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=console.log('Hello,+World!');Stack+%3D+%5B'React',+'Node',+'Design'%5D;while(alive)+%7B+code()+%7D" alt="Typing SVG" />
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
 <br/>
 
+<h3>🛠️ Technologies & Tools</h3>
 <div align="center">
-
-  <pre align="left">
-   const ankit = {
-      pronouns: "He/Him",
-      code: [Javascript, Typescript, Python],
-      tools: [React, NextJS, Node, Docker],
-      architecture: ["Microservices", "Serverless"],
-      challenge: "Currently learning Rust",
-      funFact: "I debug in my sleep"
-   };
-  </pre>
-
-  <br/>
-
-  <h3>🛠️ The Arsenal</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,redux,nodejs,express,mongodb,postgres,firebase,docker,kubernetes,linux,git,vscode&perline=8&theme=dark" />
-    </a>
-  </p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,tailwind,redux,ts,js,python,git,github,vscode,vercel&perline=8&theme=dark" />
 </div>
 
 <br/>
 
+<h3>📊 Contributions & Stats</h3>
 <div align="center">
-  <h3>📊 The Metrics</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=20C20E&text_color=FFFFFF&icon_color=20C20E" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=buefy&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=20C20E&text_color=FFFFFF" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=buefy&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="180" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=buefy&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=50&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=20&fontColor=58a6ff" width="100%"/>
 </div>
