@@ -23,7 +23,6 @@
 <td width="50%" valign="top">
 
 ### 👨‍💻 About Me
-
 I am a **Full Stack Developer** focused on building real-world, scalable applications and learning system-level thinking.
 
 - 🔭 Working on: **SaaS & Automation**
@@ -39,12 +38,11 @@ I am a **Full Stack Developer** focused on building real-world, scalable applica
 <td width="50%" valign="top">
 
 ### 📊 GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Thnoxs&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Thnoxs&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thnoxs&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Thnoxs&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
 
 </td>
 </tr>
@@ -53,7 +51,6 @@ I am a **Full Stack Developer** focused on building real-world, scalable applica
 <br/>
 
 <h3 align="center">🔥 Consistency Streak</h3>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thnoxs&theme=tokyonight&hide_border=true" width="80%" />
 </div>
