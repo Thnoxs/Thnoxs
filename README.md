@@ -49,12 +49,3 @@
 </div>
 
 <br />
-
-<h3 align="center">🔥 Consistency Streak</h3>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thnoxs&theme=tokyonight&hide_border=true&background=00000000" width="80%" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</div>
