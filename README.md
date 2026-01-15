@@ -18,7 +18,7 @@
 
 <br/>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -32,7 +32,7 @@ I am a **Full Stack Developer** focused on building real-world, scalable applica
 - ⚡ Editor: **VS Code**
 
 ### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,mongodb,postgres,python,git&perline=5" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,mongodb,postgres,python,git&perline=6" />
 
 </td>
 
@@ -42,7 +42,7 @@ I am a **Full Stack Developer** focused on building real-world, scalable applica
 
 <img src="https://github-readme-stats.vercel.app/api?username=Thnoxs&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="100%" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thnoxs&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
 
@@ -61,5 +61,5 @@ I am a **Full Stack Developer** focused on building real-world, scalable applica
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
