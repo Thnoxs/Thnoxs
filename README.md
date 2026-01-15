@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffff&height=150&section=header&text=Ankit%20Jaiswal&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20(MERN%20%2B%20Python)&descAlignY=75&descSize=20&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&height=150&section=header&text=Ankit%20Jaiswal&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20(MERN%20%2B%20Python)&descAlignY=75&descSize=20&animation=fadeIn" width="100%" />
 
   <p>
     <a href="https://github.com/Thnoxs">
-      <img src="https://img.shields.io/github/followers/Thnoxs?label=Followers&style=flat-square&logo=github&color=black&logoColor=white" />
+      <img src="https://img.shields.io/github/followers/Thnoxs?label=Followers&style=flat-square&logo=github&color=181717&logoColor=white" />
     </a>
     &nbsp;
     <a href="https://linkedin.com/in/Thnoxs">
@@ -52,6 +52,6 @@
 
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Thnoxs&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=ffff&text_color=000&icon_color=000" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Thnoxs&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=000" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Thnoxs&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Thnoxs&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff" height="150" alt="languages graph" />
 </div>
