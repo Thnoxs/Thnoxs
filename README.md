@@ -11,10 +11,10 @@
 </p>
 
 <div align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/Thnoxs">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -30,9 +30,9 @@
 
 <h3>📊 Contributions & Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=buefy&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thnoxs&show_icons=true&theme=buefy&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=buefy&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thnoxs&layout=compact&theme=buefy&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="180" alt="languages graph" />
 </div>
 
 <br/>
