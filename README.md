@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Thnoxs&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="150" alt="stats graph" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Thnoxs&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff" height="150" alt="languages graph" />
 </div>
-<div>
+<div align="center">
   <p>
     <a href="https://github.com/Thnoxs">
       <img src="https://img.shields.io/github/followers/Thnoxs?label=Followers&style=flat-square&logo=github&color=181717&logoColor=white" />
