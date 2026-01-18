@@ -20,12 +20,12 @@ I don't just write code; I build **tools**, **platforms**, and **immersive exper
 
 Here are some of the standout projects I've engineered.
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Thnoxs Explorer** 📂 | A professional **VS Code Extension** that replaces the default file explorer. Features custom context menus, file creation/deletion, and a sleek UI. | `TypeScript` `VS Code API` | [📥 Install](https://marketplace.visualstudio.com/items?itemName=YOUR_ID) <br> [💻 View Code](#) |
-| **Smart AI Note-Taker** 🧠 | A SaaS application that uses AI to organize and generate insights from your notes. Built for speed and intelligence. | `Next.js` `Supabase` `OpenAI/Gemini` | [🔴 Live Demo](#) <br> [💻 View Code](#) |
-| **CSS to Tailwind Pro** 🎨 | A developer productivity tool that instantly converts standard CSS into optimized Tailwind CSS utility classes. | `JavaScript` `Regex` | [📥 Install](#) <br> [💻 View Code](#) |
-| **Secure Vault Terminal** 🔐 | A secure, terminal-based CLI tool featuring multi-step authentication to protect sensitive PDF files and data. | `Python` `Cryptography` | [💻 View Code](#) |
+| Project | Description | Links |
+| :--- | :--- |  :--- |
+| **Thnoxs Explorer** 📂 | A professional **VS Code Extension** that replaces the default file explorer. Features custom context menus, file creation/deletion, and a sleek UI. |  [📥 Install](https://marketplace.visualstudio.com/items?itemName=YOUR_ID) <br> [💻 View Code](#) |
+| **Smart AI Note-Taker** 🧠 | A SaaS application that uses AI to organize and generate insights from your notes. Built for speed and intelligence. |  [🔴 Live Demo](#) <br> [💻 View Code](#) |
+| **CSS to Tailwind Pro** 🎨 | A developer productivity tool that instantly converts standard CSS into optimized Tailwind CSS utility classes. |  [📥 Install](#) <br> [💻 View Code](#) |
+| **Secure Vault Terminal** 🔐 | A secure, terminal-based CLI tool featuring multi-step authentication to protect sensitive PDF files and data. | [💻 View Code](#) |
 
 ---
 
