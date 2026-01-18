@@ -1,59 +1,41 @@
-<div align="center">
-  <h1>Hi, I'm Thnoxs 👋</h1>
-  <h3>SaaS Developer | Automation Specialist | Open Source</h3>
-  <br/>
-  <p width="600px">
-    I build scalable <b>SaaS applications</b> and <b>VS Code extensions</b> to boost developer productivity.<br/>
-    Focused on performance, system architecture, and clean UI/UX patterns.
-  </p>
-</div>
+# Hi there, I'm Thnoxs! 👋
 
-<br />
+### 🚀 Full Stack Developer | VS Code Extension Creator | Automation Enthusiast
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="left">🔭 <b>Current Focus:</b> SaaS Development & Next.js</td>
-      <td align="left">💼 <b>Core Stack:</b> MERN + Python</td>
-    </tr>
-    <tr>
-      <td align="left">🛠️ <b>Recent Work:</b> VS Code Extensions</td>
-      <td align="left">📫 <b>Contact:</b> <a href="mailto:Thnoxs@gmail.com">Thnoxs@gmail.com</a></td>
-    </tr>
-  </table>
-</div>
+I'm a Full Stack Developer based in **India**, passionate about building modern web applications with a focus on sleek **Glassmorphism** designs and high-performance functionality. I also specialize in creating developer tools and educational content.
 
-<br />
+---
 
-<h3 align="center">🛠️ Technical Arsenal</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,supabase,postgres&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" />
-</div>
+### 🛠️ Tech Stack & Tools
 
-<br />
+* **Frontend:** React, Next.js, Tailwind CSS, TypeScript, Framer Motion
+* **Backend:** Node.js, Supabase, Python (Automation)
+* **Tools:** VS Code API, Git, After Effects (JS Expressions)
+* **Design:** UI/UX, Glassmorphism Aesthetics
 
-<h3 align="center">📊 GitHub Analytics</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thnoxs&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thnoxs&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-</div>
+---
 
-<br />
+### 🔭 Current Projects & Highlights
+
+* **[Thnoxs Explorer](https://github.com/thnoxs/localy-v1):** A custom, professional file explorer extension for VS Code featuring file creation, deletion, and a custom context menu.
+* **CSS to Tailwind Pro:** A VS Code extension designed to instantly convert standard CSS into Tailwind utility classes.
+* **Smart Note-Taker SaaS:** A Next.js application integrated with AI (Gemini/OpenAI) for intelligent note management.
+* **Secure Vault Terminal:** A terminal-based project featuring multi-step authentication for securing sensitive files.
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <p>
-    <a href="https://github.com/Thnoxs">
-      <img src="https://img.shields.io/github/followers/Thnoxs?label=Followers&style=for-the-badge&logo=github&color=181717&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/Thnoxs">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=0077B5" />
-    </a>
-    &nbsp;
-    <a href="mailto:Thnoxs@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&color=D14836" />
-    </a>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
 </div>
+
+---
+
+### 🌱 What I'm Learning
+I am currently diving deeper into **Advanced Python Automation** for content workflows and expanding my knowledge of **SaaS Architecture** using Next.js.
+
+### 📫 Connect with Me
+* **Email:** [thnoxs@gmail.com](mailto:thnoxs@gmail.com)
+* **Brand:** CODESTREAM
