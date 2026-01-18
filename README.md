@@ -1,41 +1,43 @@
-# Hi there, I'm Thnoxs! 👋
+# ⚡ Hi, I'm Thnoxs!
 
-### 🚀 Full Stack Developer | VS Code Extension Creator | Automation Enthusiast
+### 👨‍💻 Full Stack Developer | VS Code Extension Author | Automation Specialist
 
-I'm a Full Stack Developer based in **India**, passionate about building modern web applications with a focus on sleek **Glassmorphism** designs and high-performance functionality. I also specialize in creating developer tools and educational content.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-* **Frontend:** React, Next.js, Tailwind CSS, TypeScript, Framer Motion
-* **Backend:** Node.js, Supabase, Python (Automation)
-* **Tools:** VS Code API, Git, After Effects (JS Expressions)
-* **Design:** UI/UX, Glassmorphism Aesthetics
+I don't just write code; I build **tools**, **platforms**, and **immersive experiences**. My focus is on creating high-performance web applications with modern **Glassmorphism** aesthetics and developing VS Code extensions that boost developer productivity.
 
 ---
 
-### 🔭 Current Projects & Highlights
+### 🛠️ The Arsenal (Tech Stack)
 
-* **[Thnoxs Explorer](https://github.com/thnoxs/localy-v1):** A custom, professional file explorer extension for VS Code featuring file creation, deletion, and a custom context menu.
-* **CSS to Tailwind Pro:** A VS Code extension designed to instantly convert standard CSS into Tailwind utility classes.
-* **Smart Note-Taker SaaS:** A Next.js application integrated with AI (Gemini/OpenAI) for intelligent note management.
-* **Secure Vault Terminal:** A terminal-based project featuring multi-step authentication for securing sensitive files.
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
-</div>
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
-### 🌱 What I'm Learning
-I am currently diving deeper into **Advanced Python Automation** for content workflows and expanding my knowledge of **SaaS Architecture** using Next.js.
+### 🚀 Featured Projects
 
-### 📫 Connect with Me
+Here are some of the standout projects I've engineered.
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Thnoxs Explorer** 📂 | A professional **VS Code Extension** that replaces the default file explorer. Features custom context menus, file creation/deletion, and a sleek UI. | `TypeScript` `VS Code API` | [📥 Install](https://marketplace.visualstudio.com/items?itemName=YOUR_ID) <br> [💻 View Code](#) |
+| **Smart AI Note-Taker** 🧠 | A SaaS application that uses AI to organize and generate insights from your notes. Built for speed and intelligence. | `Next.js` `Supabase` `OpenAI/Gemini` | [🔴 Live Demo](#) <br> [💻 View Code](#) |
+| **CSS to Tailwind Pro** 🎨 | A developer productivity tool that instantly converts standard CSS into optimized Tailwind CSS utility classes. | `JavaScript` `Regex` | [📥 Install](#) <br> [💻 View Code](#) |
+| **Secure Vault Terminal** 🔐 | A secure, terminal-based CLI tool featuring multi-step authentication to protect sensitive PDF files and data. | `Python` `Cryptography` | [💻 View Code](#) |
+
+---
+
+### 🎥 Content & Creativity
+Beyond code, I run **CODESTREAM**, where I combine technical skills with creative storytelling.
+* **Video Editing:** Specializing in high-retention editing for the Crypto/Finance niche.
+* **After Effects:** Creating complex animations using JavaScript expressions.
+
+---
+
+### 📬 Let's Build Something Amazing
+I am always open to discussing new projects, especially those involving **Web Development**, **SaaS**, or **Automation**.
+
 * **Email:** [thnoxs@gmail.com](mailto:thnoxs@gmail.com)
 * **Brand:** CODESTREAM
