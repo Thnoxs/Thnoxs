@@ -18,12 +18,34 @@ My focus is on clean architecture, modern UI systems (including Glassmorphism), 
 
 ## Featured Projects
 
-| Project | Overview | Links |
-|------|---------|------|
-| **Thnoxs Explorer** | A professional VS Code extension that replaces the default file explorer with a modern UI, custom context menus, and advanced file operations. | [Install](https://marketplace.visualstudio.com/items?itemName=YOUR_ID) · [Source](#) |
-| **Smart AI Note-Taker** | A fast, AI-powered SaaS platform for organizing notes and generating actionable insights. | [Live](#) · [Source](#) |
-| **CSS to Tailwind Pro** | A developer utility that converts standard CSS into optimized Tailwind utility classes instantly. | [Install](#) · [Source](#) |
-| **Secure Vault Terminal** | A secure CLI tool with multi-step authentication for protecting sensitive PDFs and data. | [Source](#) |
+### Thnoxs Explorer
+A professional VS Code extension that replaces the default file explorer with a modern UI, custom context menus, and advanced file operations.
+
+[Install →](https://marketplace.visualstudio.com/items?itemName=YOUR_ID)  
+[Source →](#)
+
+---
+
+### Smart AI Note-Taker
+A fast, AI-powered SaaS platform for organizing notes and generating actionable insights.
+
+[Live Demo →](#)  
+[Source →](#)
+
+---
+
+### CSS to Tailwind Pro
+A developer productivity tool that converts standard CSS into optimized Tailwind CSS utility classes instantly.
+
+[Install →](#)  
+[Source →](#)
+
+---
+
+### Secure Vault Terminal
+A secure CLI tool featuring multi-step authentication to protect sensitive PDFs and data.
+
+[Source →](#)
 
 ---
 
@@ -31,14 +53,14 @@ My focus is on clean architecture, modern UI systems (including Glassmorphism), 
 
 I also run **CODESTREAM**, where development meets storytelling.
 
-- **Video Editing:** High-retention edits for Crypto and Finance content  
-- **After Effects:** Advanced motion design using JavaScript expressions
+- High-retention video editing for Crypto and Finance  
+- Advanced After Effects animations using JavaScript expressions
 
 ---
 
 ## Contact
 
-Open to collaboration on **Web Development**, **SaaS products**, and **Automation systems**.
+Open to collaboration on **Web Development**, **SaaS**, and **Automation systems**.
 
 - **Email:** thnoxs@gmail.com  
 - **Brand:** CODESTREAM
