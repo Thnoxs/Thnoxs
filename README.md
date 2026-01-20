@@ -20,10 +20,10 @@ My focus is on clean architecture, modern UI systems (including Glassmorphism), 
 
 | Project | Overview | Links |
 |------|---------|------|
-| **localy-v1** | A professional VS Code extension that replaces the default file explorer with a modern UI, custom context menus, and advanced file operations. |[Demo→](#)|
-| **Smart AI Note-Taker** | A fast, AI-powered SaaS platform for organizing notes and generating actionable insights. |[Demo→](#)|
-| **CSS to Tailwind Pro** | A developer utility that converts standard CSS into optimized Tailwind utility classes instantly. |[Demo→](#)|
-| **Secure Vault Terminal** | A secure CLI tool with multi-step authentication for protecting sensitive PDFs and data. |[Demo→](#)|
+| **localy-v1** | A professional VS Code extension that replaces the default file explorer with a modern UI, custom context menus, and advanced file operations. |[Demo→](https://marketplace.visualstudio.com/items?itemName=Thnoxs.localy-v1)|
+| **TeloView Pro** | A Powerful VS Code extension that transforms your Telegram channels into a structured online course platform (like Udemy or Coursera). |[Demo→](https://marketplace.visualstudio.com/items?itemName=Thnoxs.teloview)|
+| ~~**CSS to Tailwind Pro** | A developer utility that converts standard CSS into optimized Tailwind utility classes instantly. |[Demo→](#)|~~
+| ~~**Secure Vault Terminal** | A secure CLI tool with multi-step authentication for protecting sensitive PDFs and data. |[Demo→](#)|~~
 
 ---
 
