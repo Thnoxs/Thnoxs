@@ -1,5 +1,6 @@
 import os
 import requests
+import re
 
 def update_readme():
     token = os.environ['GITHUB_TOKEN']
@@ -12,24 +13,27 @@ def update_readme():
     
     featured_repos = []
     for repo in repos:
-        # Check if 'push-on-main' tag exists in topics
         topics = repo.get('topics', [])
         if 'push-on-main' in topics:
             name = repo['name']
-            desc = repo['description'] or "No description"
+            desc = repo['description'] or "No description provided."
             url = repo['html_url']
             featured_repos.append(f"| **{name}** | {desc} | [Demo→]({url}) |")
 
-    # Table content taiyar karna
+    # Agar koi repo nahi mili toh update mat karo
+    if not featured_repos:
+        print("No repos with 'push-on-main' tag found.")
+        return
+
     new_content = "| Project | Overview | Links |\n| :--- | :--- | :--- |\n" + "\n".join(featured_repos)
     
-    # README file update karna
     with open("README.md", "r") as f:
         content = f.read()
 
-    import re
+    # Sirf markers ke beech ka hissa badalna hai
     pattern = r".*?"
     replacement = f"\n{new_content}\n"
+    
     updated_readme = re.sub(pattern, replacement, content, flags=re.DOTALL)
 
     with open("README.md", "w") as f:
