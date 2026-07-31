@@ -1,4 +1,4 @@
-# Hi, I’m Thnoxs
+# Hi, I’m Ankit
 
 **Full Stack Developer · VS Code Extension Author · Automation Specialist**
 
@@ -26,18 +26,9 @@ My focus is on clean architecture, modern UI systems (including Glassmorphism), 
 
 ---
 
-## Content & Creative Work
-
-I also run **CODESTREAM**, where development meets storytelling.
-
-- **Video Editing:** High-retention edits for Crypto and Finance content  
-- **After Effects:** Advanced motion design using JavaScript expressions
-
----
-
 ## Contact
 
 Open to collaboration on **Web Development**, **SaaS products**, and **Automation systems**.
 
+- **Name:** Ankit Jaiswal
 - **Email:** thnoxs@gmail.com  
-- **Brand:** GoZavi 
