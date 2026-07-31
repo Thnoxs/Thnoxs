@@ -20,9 +20,9 @@ My focus is on clean architecture, modern UI systems (including Glassmorphism), 
 
 | Project | Overview | Links |
 |------|---------|------|
-| **localy-v1** | A professional VS Code extension that replaces the default file explorer with a modern UI, custom context menus, and advanced file operations. |[Demo→](https://marketplace.visualstudio.com/items?itemName=Thnoxs.localy-v1)|
-| **TeloView Pro** | A Powerful VS Code extension that transforms your Telegram channels into a structured online course platform (like Udemy or Coursera). |[Demo→](https://marketplace.visualstudio.com/items?itemName=Thnoxs.teloview)|
-| **Run-course** | Automated Telegram-based course streaming engine. It converts Video content from Telegram channels into a clean, Netflix-style dashboard with a built-in video player and progress tracking.|[Demo→](https://github.com/Thnoxs/Run-course)|
+| **Localy** | A professional VS Code extension that replaces the default file explorer with a modern UI, custom context menus, and advanced file operations. |[Demo→](https://marketplace.visualstudio.com/items?itemName=Thnoxs.localy-v1)|
+| **Telo** | A Powerful VS Code extension that transforms your Telegram channels into a structured online course platform (like Udemy or Coursera). |[Demo→](https://marketplace.visualstudio.com/items?itemName=Thnoxs.teloview)|
+| **Run Course** | Automated Telegram-based course streaming engine. It converts Video content from Telegram channels into a clean, Netflix-style dashboard with a built-in video player and progress tracking.|[Demo→](https://github.com/Thnoxs/Run-course)|
 
 ---
 
