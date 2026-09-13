@@ -1,34 +1,27 @@
-# Hi, I’m Ankit
-
-**Full Stack Developer · VS Code Extension Author · Automation Specialist**
-
-I design and engineer high-performance web applications, developer tools, and scalable platforms.  
-My focus is on clean architecture, modern UI systems (including Glassmorphism), and tools that improve developer productivity.
+<div align="center">17 - Full Stack Developer | From india 🇮🇳</div>
+<br>
+I'm currently focused on the core fundamentals of web development—HTML, CSS, and JavaScript. While keeping it simple, I love turning these building blocks into cool, modern, and responsive frontend websites. I'm always exploring new ways to clean up my code and improve user experiences.
 
 ---
 
 ## Tech Stack
 
-- **Frontend:** Next.js, Tailwind CSS, TypeScript  
-- **Backend & Scripting:** Python  
-- **Database & Auth:** Supabase  
-- **Tooling:** VS Code Extension API, Automation Workflows
+- **Frontend:** Html, CSS - Tailwind & Javscript
+- **Backend:** Null
 
 ---
 
-## Featured Projects
+## Website Projects
 
-| Project | Overview | Links |
-|------|---------|------|
-| **Localy** | A professional VS Code extension that replaces the default file explorer with a modern UI, custom context menus, and advanced file operations. |[Demo→](https://marketplace.visualstudio.com/items?itemName=Thnoxs.localy-v1)|
-| **Telo** | A Powerful VS Code extension that transforms your Telegram channels into a structured online course platform (like Udemy or Coursera). |[Demo→](https://marketplace.visualstudio.com/items?itemName=Thnoxs.teloview)|
-| **Run Course** | Automated Telegram-based course streaming engine. It converts Video content from Telegram channels into a clean, Netflix-style dashboard with a built-in video player and progress tracking.|[Demo→](https://github.com/Thnoxs/Run-course)|
+| No    | Overview                                                                                                                                                                    | Links                          |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| **1** | It is a standard website designed for administrators to store employee data and access it using a password; the focus here is solely on UI/UX, not on the underlying logic. | [Demo→](https://web.thnoxs.in) |
 
 ---
 
 ## Contact
 
-Open to collaboration on **Web Development**, **SaaS products**, and **Automation systems**.
+Open to collaboration on **Web Development**, **SaaS products**, anything related to **html, css & javascript**.
 
-- **Name:** Ankit Jaiswal
-- **Email:** thnoxs@gmail.com  
+- **Full Name:** Ankit Jaiswal
+- **Email:** thnoxs@gmail.com
