@@ -1,7 +1,6 @@
-<div align="center">17 - Full Stack Developer | From india 🇮🇳</div>
-<br>
-I'm currently focused on the core fundamentals of web development—HTML, CSS, and JavaScript. While keeping it simple, I love turning these building blocks into cool, modern, and responsive frontend websites. I'm always exploring new ways to clean up my code and improve user experiences.
-
+<div align="center">
+  <img src="logo.png">
+</div>
 ## Tech Stack
 
 - **Frontend:** Html, CSS - Tailwind & Javscript
