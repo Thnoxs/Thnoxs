@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="logo.png">
-</div>
+
 ## Tech Stack
 
 - **Frontend:** Html, CSS - Tailwind & Javscript
