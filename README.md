@@ -1,18 +1,17 @@
 ### Hi there, I'm Ankit
-
-I am a 17 year old full stack developer from [India]("https://www.google.com/search?q=india") and this is my portfolio of projects :)</br>
+I am a 17 year old full stack developer from [India](https://www.google.com/search?q=india) and this is my portfolio of projects :)</br>
 Currently, I mainly build websites, contribute to open-source projects, and write automation scripts.
 
-<div style=" display: flex;
-  align-items: center; gap: 5px; margin: 10px 0">
-<img src="assets/deployed_code_account_18dp_4DAAFC_FILL0_wght400_GRAD0_opsz20.png">
-<span style="">Active projects:</span>
-</div>
+  
+--- 
+Active projects:
 
-Most of my projects on here are made with or for JavaScript, TypeScript, Python, React.
+> Most of my projects on here are made with or for JavaScript, TypeScript, Python and React.
 
-- [Drive](https://github.com/Thnoxs/Drive) : video player for Google Drive that allows you to play videos stored in your folders like udemy or any LMS.
-- [Ibex](https://github.com/Thnoxs/Ibex) : High-performance VS Code sidebar browser with auto-server detection and live HTML preview.
+</br>
+
+- [Drive](https://github.com/Thnoxs/Drive) : A video player for Google Drive that allows you to play videos stored in your folders like udemy or any LMS.
+- [Ibex](https://github.com/Thnoxs/Ibex) : A High-performance VS Code sidebar browser with auto-server detection and live HTML preview.
 
 </br>
 
@@ -20,7 +19,7 @@ Most of my projects on here are made with or for JavaScript, TypeScript, Python,
 
 </br>
 
-> [!NOTE]  
+> [!NOTE]    
 > My projects are free to use and open source so I massively appreciate contributions and donations to keep my projects and domains running.
 
 </br>
@@ -38,3 +37,6 @@ Most of my projects on here are made with or for JavaScript, TypeScript, Python,
 ---
 
 If you want to reach out to me, you can [send me an E-Mail](mailto:%63%6F%6E%74%61%63%74%40%73%76%34%34%33%2E%6E%65%74) or [join my Discord server.](https://dc.sv443.net/)
+
+
+
