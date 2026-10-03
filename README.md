@@ -20,7 +20,7 @@ Active projects:
 </br>
 
 > [!NOTE]    
-> My projects are free to use and open source so I massively appreciate contributions and donations to keep my projects and domains running.
+> I have knowledge of HTML, CSS, Tailwind CSS, JavaScript, and React, and I'm continuously improving my skills
 
 </br>
 
