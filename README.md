@@ -14,7 +14,6 @@ I am a 17 year old full stack developer from [India](https://www.google.com/sear
 
 - [Drive](https://github.com/Thnoxs/Drive) : A video player for Google Drive that allows you to play videos stored in your folders like udemy or any LMS.
 - [Ibex](https://github.com/Thnoxs/Ibex) : A High-performance VS Code sidebar browser with auto-server detection and live HTML preview.
-
 ---
 
 If you want to reach out to me, you can [send me an E-Mail](mailto:thnoxs@gmail.com) or [DM on instagram.](https://instagram.com/thnoxs/)
