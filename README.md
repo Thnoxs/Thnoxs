@@ -17,7 +17,7 @@ I am a 17 year old full stack developer from [India](https://www.google.com/sear
 
 ---
 
-If you want to reach out to me, you can [send me an E-Mail](mailto:thnoxs@gmail.com) or [dm me on instagram.](https://instagram.com/thnoxs/)
+If you want to reach out to me, you can [send me an E-Mail](mailto:thnoxs@gmail.com) or [DM on instagram.](https://instagram.com/thnoxs/)
 
 
 
